@@ -1,0 +1,1 @@
+Bekleyen iş yok.

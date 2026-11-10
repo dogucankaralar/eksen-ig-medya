@@ -1,0 +1,13 @@
+LGS'de 500 tam puan alan öğrenci sayısı: 2024'te 352, 2025'te 719, 2026'da 452. Her 10.000 adaydan 3,5 ila 7,5 kişi.
+
+MEB'in sonuç duyurularına göre sınava giren aday sayısı üç yılda 963.142 ile 994.358 arasında kaldı. Her 10.000 adaydan 500 alanlar: 2024'te 3,5, 2025'te 7,5, 2026'da 4,5. Oranı Eksen hesapladı: tam puan sayısı bölü sınava giren sayısı çarpı 10.000.
+
+Bizim önerimiz: hedef farkı = hedef okulun geçen yılki taban puanı eksi son 3 deneme ortalaman. Farkı kalan hafta sayısına böl. Örnek: 460 - 430 = 30 puan; 12 hafta kaldıysa haftada 2,5 puan.
+
+8. sınıfta çocuğu olan birine gönder: hedef konuşmadan önce bu 3 sayıyı görsün.
+
+Eksen Matematik resmi LGS ve YKS verisini sade sayılarla okuyor.
+
+Eksen Matematik · Atakent, Küçükçekmece
+
+#lgs #lgsmatematik #8sinif

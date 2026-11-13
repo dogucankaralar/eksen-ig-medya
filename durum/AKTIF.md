@@ -1,6 +1,6 @@
-# Bekleyen işler (12 Kasım 2026 Perşembe, günlük çalışma)
+# Bekleyen işler (13 Kasım 2026 Cuma, günlük çalışma)
 
-1. Reel paketi (Y2) ÜRETİLEMEDİ. Neden: resmî ÖSYM/MEB soru kitapçığı PDF'i birebir ve şekilleriyle okunamadı (WebFetch özet veriyor, 14. sorudan sonrası kesiliyor). Soru metni hafızadan yazılmaz. Gerekli: Doğucan resmî PDF'i veya ilgili sayfaları verir ya da PDF indirmeye izin verilir. 9 ve 11 Kasım reelleri Instagram'da yok. SERI.md: son numara 0 (değişmedi).
-2. Pazar 15 Kasım 09:58 kaydırmalısı: kurulmadı. Konu adayı: YKS/TYT resmî ÖSYM test ortalamaları (2026 doğrulandı: Temel Matematik 40 soru, son sınıf ortalama doğru 6,8; tüm aday 6,4; AYT Matematik 39 soru, 7,0 / 7,1; kaynak ÖSYM sayısal bilgiler 21.07.2026). Yıllara göre karşılaştırma için 2023–2025 ÖSYM sayısal bilgi PDF'leri doğrulanmalı. Konsey (Y4) ve görseller yapılmadı. Pazar 09:58'e yetişmezse 19:28 slotu.
-3. Banka: kullanılmamış içerik 0 (tek içerik 10 Kasım'da kullanıldı, KULLANILDI.md güncel). Yeni banka içeriği gerekli (konseyden geçmiş, tarihsiz).
-4. Hikâye: 12 Kasım 19:15 için kuruldu (MEBİ YKS 3. deneme son gün 15 Kasım).
+1. Pazar 15 Kasım 09:58 kaydırmalı: HAZIR DEĞİL. Konsey 4 turda geçmedi (kayıt: durum/konsey-2026-11-13-tyt-ortalama.md). Yayın görevi YOK. Yeni konu ya da yeni açı gerekli.
+2. Reel paketi (Y2): yapılmadı, gecikmiş. Cumartesi çalışması yapacak.
+3. Hikâye: son hikâye 12 Kasım ~19:17. 14 Kasım 19:17 öncesi yeni hikâye gerekli.
+4. Banka: kullanılmamış öğe 3'ün altında.

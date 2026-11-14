@@ -1,6 +1,6 @@
-# Bekleyen işler (13 Kasım 2026 Cuma, günlük çalışma)
+# Bekleyen işler (14 Kasım 2026 Cumartesi, günlük çalışma)
 
-1. Pazar 15 Kasım 09:58 kaydırmalı: HAZIR DEĞİL. Konsey 4 turda geçmedi (kayıt: durum/konsey-2026-11-13-tyt-ortalama.md). Yayın görevi YOK. Yeni konu ya da yeni açı gerekli.
-2. Reel paketi (Y2): yapılmadı, gecikmiş. Cumartesi çalışması yapacak.
-3. Hikâye: son hikâye 12 Kasım ~19:17. 14 Kasım 19:17 öncesi yeni hikâye gerekli.
-4. Banka: kullanılmamış öğe 3'ün altında.
+1. Pazar 15 Kasım 09:58 kaydırmalı: HAZIR DEĞİL. Konsey 13 Kasım'da 4 turda geçmedi (kayıt: durum/konsey-2026-11-13-tyt-ortalama.md). Yayın görevi YOK. 14 Kasım'da yeni konu veya yeni açı üretilmedi. Sıradaki çalışma: Pazar 19:28 veya sonraki ilk uygun slot için yeni resmî veri konusu seç. Reel günlerine (Pzt, Çar, Cum) kaydırmalı kurma.
+2. Reel paketi (Y2): YAPILMADI. Neden: osym.gov.tr sayfaları WebFetch ile açılmıyor (robots engeli), resmî soru kitapçığı ve cevap anahtarı okunamadı. Doğrulanmamış soru ve cevap yazılmadı. Pazar çalışması bunu tekrar denemeli; olmazsa Doğucan'dan soru PDF'lerini istemek gerekir. Seri numarası: durum/SERI.md son numara 0 (9 Kasım #1 olarak not edilmiş, güncel değil, dokunulmadı).
+3. Hikâye: 14 Kasım için görsel hazır ve yüklü: hikaye/2026-11-14-ara-tatil-pazartesi.jpg (raw 200, 248069 bayt). Yayın görevi KURULAMADI (create_trigger, bu çalışmada onay istedi). Hedef saat 14 Kasım 19:00. Sonraki çalışma görevi kurmalı; saat geçtiyse konu bayatlar (ara tatil başladı), yeni hikâye gerekir.
+4. Banka: kullanılmamış içerik sayısı 0. 3'ün altında; 1 yeni banka içeriği üretilmeli ve konseyden geçirilmeli.

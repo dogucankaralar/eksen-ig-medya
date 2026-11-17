@@ -1,0 +1,9 @@
+240'ın %15'i kaç? Önce %10'u bul: 24. Sonra %5'i ekle: 12. Toplam 36. Üç kısa yol, tek mantık.
+
+%10: virgülü bir basamak sola kaydır. %5: %10'un yarısı. %20: %10'un iki katı. Çoğu yüzdeyi bunları toplayarak ya da katlayarak bulursun.
+
+8. sınıfta olan birine gönder.
+
+Eksen Matematik · Atakent, Küçükçekmece
+
+#lgs #8sinif #eksenmatematik

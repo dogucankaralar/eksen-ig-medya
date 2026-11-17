@@ -1,0 +1,9 @@
+1728, 2, 3, 4, 6 ve 9'a bölünür mü? Bölme yapmadan, rakamlarına bakarak anla. 2, 3, 4, 6 ve 9'a evet. 5 ve 10'a hayır.
+
+2: son rakam çift. 5: son rakam 0 ya da 5. 10: son rakam 0. 3: rakamlar toplamı 3'ün katı. 9: rakamlar toplamı 9'un katı. 4: son iki rakam 4'e bölünür. 6: hem 2'ye hem 3'e bölünür. 1728'de toplam 18, son iki rakam 28.
+
+8. sınıfta olan birine gönder.
+
+Eksen Matematik · Atakent, Küçükçekmece
+
+#lgs #8sinif #eksenmatematik

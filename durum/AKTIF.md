@@ -19,3 +19,10 @@ Bankada kullanilmamis icerik: 0 (tek klasor 2026-11-10-lgs-500-yillara-gore kull
 
 ## Teknik not
 Serper kredisi bitti (Composio). Haber taramasi yerlesik web aramasiyla yapildi.
+
+
+## 17 Kasım 2026 (Salı) güncelleme
+- Doğucan bugün gönderi yayımlamadığını bildirdi. Konu: TYT Matematik ortalaması 6,8 (ÖSYM 2026-YKS), tarz Not defteri, 5 slayt. Konsey 2. turda GEÇTİ (ort. 4,0–4,6, veto yok).
+- Dosyalar: gonderi/2026-11-17-tyt-matematik-ortalamasi/slide_01..05.jpg (raw adresler 200, bayt eşleşti).
+- Yayın görevi: trig_01G53KXc6YuYP1CTo8tXXiZn, 17 Kasım 22:00 (İstanbul).
+- Açık: Y2 reel paketi (ÖSYM/MEB soru PDF'i gerekli, Doğucan'dan bekleniyor). Banka boş (0 kullanılmamış).

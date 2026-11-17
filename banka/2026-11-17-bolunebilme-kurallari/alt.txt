@@ -1,0 +1,5 @@
+Kapak: 8. sınıf bölünebilme. Bölme yapmadan bölünür mü? Büyük yazıyla 1728. 1728, 2, 3, 4, 6 ve 9'a bölünür mü? Son rakama bak. Kaydır.
+Son rakama bak: 2 için son rakam çift, 5 için son rakam 0 ya da 5, 10 için son rakam 0. 1728'in sonu 8: 2'ye evet, 5 ve 10'a hayır.
+Rakamları topla: 1 + 7 + 2 + 8 = 18. 18, 3'ün katı, 3'e bölünür. 18, 9'un katı, 9'a bölünür. Rakamlar toplamı 3'ün katıysa sayı 3'e, 9'un katıysa 9'a bölünür.
+İki kural daha: 4 için son iki rakam, 28, 4'e bölünür. 6 için 2 ve 3 birlikte, 1728 ikisine de bölünür. Hatırlatma: 5 ve 10'a bölünmez, son rakam 8.
+8. sınıfta olan birine gönder. Eksen Matematik, Atakent, Küçükçekmece.

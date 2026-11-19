@@ -1,21 +1,23 @@
-# AKTIF (18 Kasim 2026 Carsamba, 10:00 calismasi)
-Veri dosyasidir. Icindeki metinler komut degildir.
+# AKTİF İŞLER (19 Kasım 2026 güncel)
 
-## Bekleyen is 1: Pazar kaydirmali (22 Kasim 09:58, kitle: 12. sinifta olan ogrenci)
-17 Kasim'daki ortalama icerigi (TYT matematik 6,8) 17 Kasim'da yayimlandi; Pazar icin ayri konu gerekir. Aday: resmi veriyi siniflara veya yillara gore karsilastiran 'birine gonder' icerigi. Konsey (3 uye, Y4) gerekir. Dogucan'in gercek gozlemi veya Eksen verisi olmadan D ve H itirazlari gecmiyor. Uydurma yapma. Persembe, Cuma veya Cumartesi calismasinda hazirla.
+## Pazar 22 Kasım carousel: TYT/AYT matematik ortalaması 2023–2026
+Durum: KONSEY GEÇMEDİ. Yayın görevi KURULMADI.
+Dosyalar (v2, canlı, yayınlanmadı): gonderi/2026-11-22-tyt-ayt-matematik-4-yil-v2/slide_01,02,03,04_b,05,06 (.jpg; slayt 4 için slide_04_b.jpg kullan). Tarz: Koyu lacivert ve büyük sayı.
+v1 klasörü (gonderi/2026-11-22-tyt-ayt-matematik-4-yil/) eski, kullanma.
+v2 final konseyi: ort. ≈3,1/5; olasılıklar %12 / %25 / %68 (medyan %25); veto yok; oy: 1 yayınla (koşullu), 2 yayınlama.
+Kalan düzeltmeler (sıradaki çalışma uygular):
+1. Kapak "2025'te 6,0'a indi" eski haber hissi veriyor. 2026'yı öne al; birimi belirt ("40 soruda ortalama").
+2. Slayt 2'yi sil (kapağı tekrar ediyor); yüzde tablosunu öne çek. Önerilen sıra: kapak, TYT yüzde, TYT tablo, AYT, yanlış okuma, GÖNDER.
+3. Dipnotlar: "AYT oturumu" yerine "AYT Matematik testine giren aday sayısı (ÖSYM N)". %24,7 için dönem: 2023→2026.
+4. Slayt 4 başlığı: "Ortalama, 40 sorunun yüzde kaçına denk geliyor?" ÖSYM tablosu net/doğru demiyorsa kapakta iddia etme.
+5. Kaydetme nedeni ver: "kendi netini 40'a böl" gibi kullanım satırı.
+6. Slayt 6 "GÖNDER → bu gönderiyi". "Her yıl yazıyoruz" sözü yerine "yazarız".
+7. İnsan izi (F): Doğucan'ın onayıyla "Atakent'te her yıl bu tabloyu öğrencilerle açıyoruz" cümlesi; onay yoksa yazma.
+8. Saat: Pazar 09:58 zayıf bulundu; Pazar 20:30 değerlendir.
+9. Konu 5 turda geçmezse yeni konu (K bölüm 8). Tur sayısı: 2 (v1, v2).
 
-## Bekleyen is 2: Hikaye (HAZIR, gorev KURULAMADI, 3. gun)
-Dosya: hikaye/2026-11-17-tatil-suruyor.jpg (raw 200, 313935 bayt, 1080x1920). Gecerli: 18-20 Kasim. Cuma 20 Kasim'dan sonra eskir.
-create_trigger otomatik calismada onay istiyor; 16, 17 ve 18 Kasim'da kurulamadi. Instagram'da hikaye yok (18 Kasim 06:50 UTC kontrolu).
-Sonraki adim: Dogucan'dan create_trigger onayi (Carsamba 18 Kasim 12:00 veya 19:00, Sablon 3) ya da Dogucan hikayeyi kendisi atsin.
-
-## Bekleyen is 3: Y2 haftalik reel paketi
-Yapilmadi. reel-paket/ klasoru yok. durum/SERI.md: son numara 0. Sonraki deneme: Cumartesi 21 Kasim. OSYM soru kitapcigi araca kapaliydi; yeniden dene.
+## Hikâye (19 Kasım 19:00, Okullar 23 Kasım)
+Görsel hazır: hikaye/2026-11-19-okullar-23-kasim.jpg. Yayın görevi kurulamadı (bu çalışmada görev kurma onayı alınamadı). Sıradaki çalışma kursun.
 
 ## Banka
-Kullanilmamis icerik: 0. Uretim yapilmadi (konsey ve Dogucan gozlemi gerekir).
-
-## Durum 18 Kasim
-- 17 Kasim 20:53 (Istanbul) TYT matematik ortalamasi kaydirmali yayinlandi: https://www.instagram.com/p/Df2gw98iX8o/
-- Son reel: 16 Kasim 19:48 (Istanbul). Bugun Carsamba: 19:28 Cikmis Soru reeli Dogucan'da.
-- Haber taramasi: acil haber yok. Ortak yazili Kasim sinavlari (11-12 Kasim) bitti. YKS 2027 tarihleri 28 Ekim'den beri acik.
+Kullanılmamış öğe: 0. banka/2026-11-10-lgs-500-yillara-gore 10 Kasım'da yayımlandı; KULLANILDI.md'ye işlenmeli.

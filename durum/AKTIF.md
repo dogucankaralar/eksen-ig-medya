@@ -1,4 +1,12 @@
-# AKTİF İŞLER (19 Kasım 2026 güncel)
+# AKTİF İŞLER (20 Kasım 2026 güncel)
+
+## Engel (20 Kasım)
+Zamanlanmış çalışmada yayın görevi kurulamıyor: create_trigger çağrısı "kullanıcı onayı gerekli" diye reddediliyor. Onay sadece Doğucan'ın canlı mesajına cevap veren turda istenir. Yeni içerik üretmek bu yüzden yayına dönmez. Doğucan canlı bir mesajda onay verirse aşağıdaki iki iş hemen kurulur.
+Composio Serper kredisi bitti; haber taraması yerleşik WebSearch ile yapıldı.
+
+## Hikâye (hazır, görev kurulamadı)
+Görsel: hikaye/2026-11-19-okullar-23-kasim.jpg (raw 200, 231.902 bayt, logo zeminle zıt, tarihler doğru). Önerilen slot: Cuma 20 Kasım 19:00 ya da Cumartesi 21 Kasım 12:00. Şablon 3 ile kurulacak. Dikkat: kartta "1. dönemin bitmesine 9 hafta var" yazıyor; 23 Kasım ile 22 Ocak arası 8 hafta 5 gün. İstenirse "yaklaşık 9 hafta" yapılabilir.
+Son yayımlanan hikâye 12 Kasım 19:15 (MEBİ YKS 3. deneme). 48 saat kuralı bozuldu.
 
 ## Pazar 22 Kasım carousel: TYT/AYT matematik ortalaması 2023–2026
 Durum: KONSEY GEÇMEDİ. Yayın görevi KURULMADI.
@@ -14,10 +22,11 @@ Kalan düzeltmeler (sıradaki çalışma uygular):
 6. Slayt 6 "GÖNDER → bu gönderiyi". "Her yıl yazıyoruz" sözü yerine "yazarız".
 7. İnsan izi (F): Doğucan'ın onayıyla "Atakent'te her yıl bu tabloyu öğrencilerle açıyoruz" cümlesi; onay yoksa yazma.
 8. Saat: Pazar 09:58 zayıf bulundu; Pazar 20:30 değerlendir.
-9. Konu 5 turda geçmezse yeni konu (K bölüm 8). Tur sayısı: 2 (v1, v2).
+9. Konu 5 turda geçmezse yeni konu (K bölüm 8). Tur sayısı: 2 (v1, v2). 20 Kasım: üretim yapılmadı (görev kurulamadığı için).
+Not: 17 Kasım 6,8 TYT ortalaması gönderisi aynı kaynağı kullandı; 14 gün kuralı için yeni açı gerekir.
 
-## Hikâye (19 Kasım 19:00, Okullar 23 Kasım)
-Görsel hazır: hikaye/2026-11-19-okullar-23-kasim.jpg. Yayın görevi kurulamadı (bu çalışmada görev kurma onayı alınamadı). Sıradaki çalışma kursun.
+## Haber (20 Kasım taraması)
+Acil haber yok. Hikâye adayı: MEB Ölçme ve Değerlendirme Yönetmeliği değişikliği, Resmî Gazete 14 Kasım 2026 (il ve ilçe geneli ortak sınav kalktı; ortak sınavlar ülke geneli ve okul geneli diye ikiye ayrıldı). Resmî metin bu çalışmada açılamadı, en az 2 kaynakla doğrulanmadan yayımlama. Ülke geneli ortak yazılı sınav takvimi (MEB, 10 Eylül 2026): 1. dönem 2. sınav 5–6 Ocak 2027.
 
 ## Banka
-Kullanılmamış öğe: 0. banka/2026-11-10-lgs-500-yillara-gore 10 Kasım'da yayımlandı; KULLANILDI.md'ye işlenmeli.
+Kullanılmamış öğe: 0. banka/2026-11-10-lgs-500-yillara-gore 10 Kasım'da yayımlandı ve KULLANILDI.md'de işli. 1 yeni banka içeriği gerekiyor (20 Kasım'da üretilmedi, görev kurulamıyor).

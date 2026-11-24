@@ -25,7 +25,7 @@ def page(q):
     return f'''<div class="pg">{left}{ans}{GRID}<div class="edge" style="left:{COL0}pt"></div><div class="edge" style="left:{COL1-1.4:.2f}pt"></div>
 <div class="badge" style="left:{L}pt">EKSEN MATEMATİK</div>
 <div class="z" style="left:{zx0:.2f}pt">ZORLUK</div>{circ}
-<div class="stack"><div class="card">{q["govde"]}<div class="ch">{ch}</div>{tag}</div><div class="lb">ÇÖZÜM</div><div class="box"><svg width="100%" height="100%"><defs><pattern id="d" width="8.02" height="8.02" patternUnits="userSpaceOnUse"><circle cx="3.5" cy="3.5" r="0.4" fill="#fff" fill-opacity="0.2"/></pattern></defs><rect width="100%" height="100%" fill="url(#d)"/></svg></div></div>
+<div class="stack"><div class="card">{q["govde"]}<div class="ch {q.get('chcls','')}">{ch}</div>{tag}</div><div class="lb">ÇÖZÜM</div><div class="box"><svg width="100%" height="100%"><defs><pattern id="d" width="8.02" height="8.02" patternUnits="userSpaceOnUse"><circle cx="3.5" cy="3.5" r="0.4" fill="#fff" fill-opacity="0.2"/></pattern></defs><rect width="100%" height="100%" fill="url(#d)"/></svg></div></div>
 </div>'''
 def build(qs,out):
     css=f'''
@@ -48,7 +48,15 @@ def build(qs,out):
 .card .q{{font-weight:700;margin-top:4pt}}
 .card i{{font-style:italic}}
 .card svg{{display:block;margin:2pt auto 5pt auto}}
-.ch{{display:flex;justify-content:space-between;margin-top:6pt}}
+.ch{{display:flex;justify-content:space-between;align-items:center;margin-top:6pt}}
+.ch>span{{display:inline-flex;align-items:center;gap:1.5pt}}
+.ch.iki,.ch.uc{{flex-wrap:wrap;justify-content:center;row-gap:3.5pt}}
+.ch.iki>span{{width:50%}}
+.ch.uc>span{{width:33.33%}}
+.fr{{display:inline-flex;flex-direction:column;align-items:center;vertical-align:middle;font-size:.92em;line-height:1.15;margin:0 .8pt}}
+.fr>span:first-child{{border-bottom:0.45pt solid currentColor;padding:0 1pt}}
+.eq{{text-align:center;margin:4pt 0 5pt 0}}
+.eq div{{margin:2.5pt 0}}
 .ch b{{color:{C['turuncu']};font-weight:600}}
 .tag{{position:absolute;right:6pt;bottom:2.6pt;font-size:4.2pt;color:{C['gri']};letter-spacing:.2pt}}
 .lb{{margin-top:4.8pt;font:700 3.7pt/1 JB;letter-spacing:.3pt;color:{C['yumusak']}}}

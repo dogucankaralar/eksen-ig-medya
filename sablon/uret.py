@@ -25,7 +25,7 @@ def page(q):
     return f'''<div class="pg">{left}{ans}{GRID}<div class="edge" style="left:{COL0}pt"></div><div class="edge" style="left:{COL1-1.4:.2f}pt"></div>
 <div class="badge" style="left:{L}pt">EKSEN MATEMATİK</div>
 <div class="z" style="left:{zx0:.2f}pt">ZORLUK</div>{circ}
-<div class="stack"><div class="card">{q["govde"]}<div class="ch {q.get('chcls','')}">{ch}</div>{tag}</div><div class="lb">ÇÖZÜM</div><div class="box"><svg width="100%" height="100%"><defs><pattern id="d" width="8.02" height="8.02" patternUnits="userSpaceOnUse"><circle cx="3.5" cy="3.5" r="0.4" fill="#fff" fill-opacity="0.2"/></pattern></defs><rect width="100%" height="100%" fill="url(#d)"/></svg></div></div>
+<div class="stack"><div class="card">{q["govde"]}<div class="ch {q.get('chcls','')}">{ch}</div>{tag}</div><div class="box"><div class="lb">ÇÖZÜM</div><svg width="100%" height="100%"><defs><pattern id="d" width="8.02" height="8.02" patternUnits="userSpaceOnUse"><circle cx="3.5" cy="3.5" r="0.4" fill="#fff" fill-opacity="0.2"/></pattern></defs><rect width="100%" height="100%" fill="url(#d)"/></svg></div></div>
 </div>'''
 def build(qs,out):
     css=f'''
@@ -59,9 +59,9 @@ def build(qs,out):
 .eq div{{margin:2.5pt 0}}
 .ch b{{color:{C['turuncu']};font-weight:600}}
 .tag{{position:absolute;right:6pt;bottom:2.6pt;font-size:4.2pt;color:{C['gri']};letter-spacing:.2pt}}
-.lb{{margin-top:4.8pt;font:700 3.7pt/1 JB;letter-spacing:.3pt;color:{C['yumusak']}}}
+.lb{{position:absolute;left:3.5pt;top:3pt;font:700 3.7pt/1 JB;letter-spacing:.3pt;color:{C['yumusak']}}}
 .box svg{{display:block}}
-.box{{margin-top:3.6pt;flex:1;min-height:140pt;background:{C['kutu']};overflow:hidden;border:0.35pt solid {C['cizgi']}}}
+.box{{position:relative;margin-top:18pt;flex:1;min-height:140pt;background:{C['kutu']};overflow:hidden;border:0.35pt solid {C['cizgi']}}}
 .sol{{left:16pt;top:46pt;width:156pt;color:{C['metin']};font-size:6.6pt;line-height:1.5}}
 .sol .sh{{color:{C['turuncu']};font-weight:700;font-size:6pt;margin-bottom:6pt}}
 .sol p{{margin-bottom:2.6pt}}

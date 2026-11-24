@@ -1,6 +1,6 @@
 # Koyu soru şablonu (reel)
 
-Dosya: `soru-koyu-ornek.pdf` (sürüm 7, 24 Kasım 2026). Üretici betik: `uret.py`. 2 sayfa: orta soru kartı ve büyük soru kartı.
+Dosya: `soru-koyu-ornek.pdf` (sürüm 8, 24 Kasım 2026). Üretici betik: `uret.py`. 2 sayfa: orta soru kartı ve büyük soru kartı.
 Bu ölçüler ve renkler sabittir. Yeni soru PDF'i hazırlarken bunları değiştirme.
 
 ## Ölçüler (pt, A4 595,28 × 841,89)
@@ -11,7 +11,8 @@ Bu ölçüler ve renkler sabittir. Yeni soru PDF'i hazırlarken bunları değiş
 - Şıklar tek satıra sığarsa tek satırda durur. Sığmazsa 2 veya 3 sütun olur; alt satırda kalan şıklar ortalanır. Şıklar asla sola yaslı yarım satır kalmaz.
 - Soru metni Inter 6,3 pt, kök cümlesi kalın, şık harfleri turuncu. Şekil kaynaktaki ipucu boyamaları olmadan yeniden çizilir.
 - Soru kartı üstü: y 68. Kartın yüksekliği soru metnine göre değişir. Turuncu gölge 2 pt sağ-alt.
-- ÇÖZÜM etiketi kartın 4,8 pt altında. ÇÖZÜM kutusu kartın 12,2 pt altında başlar, y 317,4'te biter; en az 140 pt yükseklikte kalır.
+- Altyazı alanı: soru kartı ile ÇÖZÜM kutusu arasında 18 pt boş şerit (gölge dahil 16 pt temiz alan, 1080 px videoda yaklaşık 75 px). Bu şeride hiçbir şey konmaz.
+- ÇÖZÜM etiketi kutunun içinde sol üst köşede. Kutu y 317,4'te biter; en az 140 pt yükseklikte kalır.
 - Çözüm metni sütunun solundaki beyaz alanda, cevap sağdaki beyaz alanda (kırpma alanının dışında).
 
 ## Renkler (Eksen lacivert ailesi)

@@ -6,4 +6,4 @@
 - 2026-10-28 | TYT Matematik Kaç Soru? Süre, Net ve Puana Etkisi | tyt matematik kaç soru | content/blog/tyt-matematik-kac-soru.mdx | durum: yayımlandı 2026-11-18 https://www.eksenmatematik.com/blog/tyt-matematik-kac-soru
 - 2026-11-04 | 2027 LGS Ne Zaman? Tarih, Başvuru ve Deneme Takvimi | 2027 lgs ne zaman | content/blog/2027-lgs-ne-zaman.mdx | durum: yayımlandı 2026-11-18 https://www.eksenmatematik.com/blog/2027-lgs-ne-zaman
 - 2026-11-11 | MEBİ YKS Deneme Takvimi 2026-2027: 12 Denemenin Tarihleri | mebi yks deneme takvimi | content/blog/mebi-yks-deneme-takvimi-2026-2027.mdx | durum: yayımlandı 2026-11-18 https://www.eksenmatematik.com/blog/mebi-yks-deneme-takvimi-2026-2027
-- 2026-11-25 | 2027 YKS Ne Zaman? TYT, AYT Tarihi ve Başvuru Takvimi | 2027 yks ne zaman | content/blog/2027-yks-ne-zaman.mdx | durum: taslak
+- 2026-11-25 | 2027 YKS Ne Zaman? TYT, AYT Tarihi ve Başvuru Takvimi | 2027 yks ne zaman | content/blog/2027-yks-ne-zaman.mdx | durum: yayımlandı 2026-11-25 https://www.eksenmatematik.com/blog/2027-yks-ne-zaman

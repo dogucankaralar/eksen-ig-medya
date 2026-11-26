@@ -1,3 +1,11 @@
+# 26 Kasım 2026 notu (Perşembe çalışması)
+- Belge okundu. Haber taraması: acil haber yok (LGS 2027: 13 Haziran Pazar, MEB 30 Ekim; YKS 2027: başvuru 4 Şubat-2 Mart, TYT 19, AYT/YDT 20 Haziran, ÖSYM takvimi; ikisi de eski haber).
+- Aktif hikâye yok. Kurulu tek seferlik yayın görevi yok. Son hikâye görevi kurulamadı (create_trigger: onay gerekli, 6. kez).
+- HAZIR ve tarihsiz hikâye: hikaye/2026-11-22-yks-2027-takvim.jpg (raw 200, 309.881 bayt, gözle kontrol edildi, tarihler doğru). Doğucan canlı mesajda onay verirse hemen kurulur: Perşembe 26 Kasım 19:00 veya Cuma 27 Kasım 12:00 (Şablon 3).
+- Yeni içerik üretilmedi: görev kurulamıyorsa yayına dönmez. Pazar kaydırmalısı (29 Kasım 09:58) kurulu değil; v2 klasörü ve kalan düzeltmeler aşağıda durur.
+- Y2 reel paketi (Cumartesi 28 Kasım) hâlâ gerekli; Doğucan bu hafta reelleri kendi çekiyor (12-25 Kasım her gün).
+
+---
 # 25 Kasım 2026 notu (Çarşamba çalışması)
 - Hikâye yayın görevi KURULAMADI (zamanlanmış çalışmada görev kurmak için onay gerekti). Görsel hazır ve yüklü: https://raw.githubusercontent.com/dogucankaralar/eksen-ig-medya/main/hikaye/2026-11-25-karne-58-gun.jpg
 - "58 gün" sadece 25 Kasım için doğru. Görevi aynı gün 19:00 için kurmak mümkün değilse görseli kullanma; sayıyı yayın gününe göre yeniden yaz (karne 22 Ocak 2027, yarıyıl 25 Ocak-5 Şubat, 2. dönem 8 Şubat; kaynak meb.gov.tr).

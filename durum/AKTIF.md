@@ -1,3 +1,11 @@
+# 28 Kasım 2026 notu (Cumartesi çalışması)
+- Belge okundu (50.219 karakter). Haber taraması (3 arama): acil haber yok. Takipçi 1.107 (27 Kasım: 1.102). Hesapta aktif hikâye yok. Doğucan 12-27 Kasım her gün 19:3x'te reel paylaştı (27 Kasım: oran orantı).
+- Hikâye yayın görevi KURULAMADI (8. kez): create_trigger "kullanıcı onayı gerekli". Hazır görsel: hikaye/2026-11-27-yks-2027-takvim.jpg (raw 200). Doğucan canlı mesajda onay verirse Şablon 3 ile kurulur (Cmt 28 Kasım 19:00 veya Paz 29 Kasım 12:00).
+- Y2 reel paketi YAPILAMADI: shell ÖSYM ve MEB sitelerine erişemiyor. WebFetch ÖSYM PDF'ini birebir aktarmayı reddetti (telif); sadece cevap anahtarı ve kısa özet verdi. Resmî soru metni ve şekil kırpması olmadan PDF üretilmez, soru uydurulmaz. Doğucan resmî PDF'i veya soru görsellerini gönderirse paket hemen hazırlanır. SERI.md 0 kalır.
+- Banka (GitHub API ile sayıldı): 4 klasör, 1 kullanıldı (2026-11-10-lgs-500-yillara-gore). Kullanılmamış 3: 2026-11-17-ayt-matematik-ortalamasi, 2026-11-17-bolunebilme-kurallari, 2026-11-17-yuzde-uc-kisa-yol. UYARI: son ikisi adı gereği kural veya kısa yol öğretiyor olabilir; içerik sınırı ihlali olabilir. Kullanmadan önce kontrol et. Yeni banka içeriği üretilmedi.
+- Pazar 29 Kasım kaydırmalısı (LGS Tablo 8) konseyden geçmedi, yayın görevi kurulamadığı için yeni tur yapılmadı. Aşağıdaki 27 Kasım notu geçerli.
+
+---
 # 27 Kasım 2026 notu (Cuma çalışması)
 - Belge okundu. Haber taraması: acil haber yok (üç aramada yeni karar çıkmadı). Takipçi 1.102. Hesapta aktif hikâye yok. Kurulu tek seferlik yayın görevi yok (list_triggers: sadece 3 kampanya hazırlık görevi).
 - Hikâye yayın görevi YİNE KURULAMADI: create_trigger "kullanıcı onayı gerekli" diye reddetti (7. kez). Yeni hikâye görseli yüklü: hikaye/2026-11-27-yks-2027-takvim.jpg (raw 200, 252.001 bayt). Aynı konu 22 Kasım dosyasında da var (hikaye/2026-11-22-yks-2027-takvim.jpg); biri yeterli, ikisini yayımlama. Doğucan canlı onay verirse Şablon 3 ile kurulur.
